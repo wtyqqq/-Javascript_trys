@@ -4,17 +4,17 @@ function getCellID(colsPerRow, r, c) {
 }
 
 function drawGameBoard(rows, cols) {
-    let piece = [
-        [0, -1, 0, -1, 0, -1, 0, -1],
-        [-1, 0, -1, 0, -1, 0, -1, 0],
-        [0, -1, 0, -1, 0, -1, 0, -1],
-        [0, 0, 0, 0, 0, 0, 0, 0],
-        [0, 0, 0, 0, 0, 0, 0, 0],
+    let back = [
+        [0, 1, 0, 1, 0, 1, 0, 1],
+        [1, 0, 1, 0, 1, 0, 1, 0],
+        [0, 1, 0, 1, 0, 1, 0, 1],
+        [1, 0, 1, 0, 1, 0, 1, 0],
+        [0, 1, 0, 1, 0, 1, 0, 1],
         [1, 0, 1, 0, 1, 0, 1, 0],
         [0, 1, 0, 1, 0, 1, 0, 1],
         [1, 0, 1, 0, 1, 0, 1, 0]
     ];
-    let tableElement = document.getElementById('board')
+    let tableElement = document.getElementById('table')
     let member1 = document.getElementById('member1');
     for (let i; i < rows; i++) {
         let trElement = document.createElement('tr');
@@ -23,12 +23,15 @@ function drawGameBoard(rows, cols) {
             let cellID = getCellID(8, i, j);
             tdElement.setAttribute('id', 'cellID');
             trElement.appendChild(tdElement)
-            if (piece[i][j] == 1)
+            if (back[i][j] == 1)
                 tdElement.appendChild.className('black');
             else
                 tdElement.appendChild.className('white');
 
         }
-        tableElement.appendChild(trElement)
+        tableElement.appendChild(trElement);
     }
+    let boardElement = document.getElementById('board');
+    boardElement.appendChild(tableElement);
+    alert("test");
 }
