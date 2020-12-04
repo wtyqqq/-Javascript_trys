@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52edbd70-32c2-405c-83d3-e1dbdce5c1ef" name="默认的" comment="step_5_completed">
-      <change afterPath="$PROJECT_DIR$/js/action2.js" afterDir="false" />
+    <list default="true" id="52edbd70-32c2-405c-83d3-e1dbdce5c1ef" name="默认的" comment="step_6_completed_with_error_background">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/game.html" beforeDir="false" afterPath="$PROJECT_DIR$/game.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/action.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/action.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/action2.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/action2.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +81,7 @@
       <workItem from="1606986726959" duration="17000" />
       <workItem from="1607063502882" duration="7236000" />
       <workItem from="1607082875785" duration="371000" />
-      <workItem from="1607084191444" duration="12417000" />
+      <workItem from="1607084191444" duration="13418000" />
     </task>
     <task id="LOCAL-00001" summary="first_try">
       <created>1607069278600</created>
@@ -111,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607095260472</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="step_6_completed_with_error_background">
+      <created>1607097418251</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607097418251</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,7 +154,8 @@
     <MESSAGE value="second_tr&#10;add_images" />
     <MESSAGE value="still_bugs" />
     <MESSAGE value="step_5_completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="step_5_completed" />
+    <MESSAGE value="step_6_completed_with_error_background" />
+    <option name="LAST_COMMIT_MESSAGE" value="step_6_completed_with_error_background" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -10,6 +10,8 @@ var pieces = [
 ];
 
 function showGamePieces(rows, cols) {
+    var member2= document.getElementById("member2")
+    member2.innerText="Zhongyuan_Yu";
     for (var i = 0; i < rows; i++) {
         for (var j = 0; j < cols; j++) {
             var cellID = getCellID(8, i, j)
