@@ -16,7 +16,6 @@ function drawGameBoard(rows, cols) {
     ];
     let tableElement = document.getElementById('board')
     let member1 = document.getElementById('member1');
-    document.getElementById('member1').innerText = "player1";
     for (let i; i < rows; i++) {
         let trElement = document.createElement('tr');
         for (let j; j < cols; j++) {
