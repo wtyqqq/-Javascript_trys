@@ -14,14 +14,13 @@ function drawGameBoard(rows, cols) {
         [0, 1, 0, 1, 0, 1, 0, 1],
         [1, 0, 1, 0, 1, 0, 1, 0]
     ];
-
-    var tableElement = document.createElement('table');
+    var boardElement = document.getElementById("board");
+    var tableElement;
     var member1 = document.getElementById('member1');
-
+    tableElement = document.createElement('table');
     for (var i = 0; i < rows; i++) {
 
         var trElement = document.createElement('tr');
-
         for (var j = 0; j < cols; j++) {
 
             var tdElement = document.createElement('td');
@@ -36,10 +35,10 @@ function drawGameBoard(rows, cols) {
         }
 
         tableElement.appendChild(trElement);
-
+alert(i);
     }
 
-    let boardElement = document.getElementById("board");
     boardElement.appendChild(tableElement);
+
 
 }
