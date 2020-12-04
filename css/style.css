@@ -13,9 +13,9 @@ td {
 }
 
 .redpiece {
-    background-image: url('images/redpiece.png');
+    background-image: url('../images/red.png');
 }
 
 .blackpiece {
-    background-image: url('images/blackpiece.png');
+    background-image: url('../images/black.png');
 }
