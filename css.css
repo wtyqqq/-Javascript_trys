@@ -1,0 +1,21 @@
+td {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.black {
+    background-color: black;
+}
+
+.white {
+    background-color: white;
+}
+
+.redpiece {
+    background-image: url('images/redpiece.png');
+}
+
+.blackpiece {
+    background-image: url('images/blackpiece.png');
+}
