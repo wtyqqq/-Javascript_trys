@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="52edbd70-32c2-405c-83d3-e1dbdce5c1ef" name="默认的" comment="first_try">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/action.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/single_txt_by_wty.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/teamProject.html" beforeDir="false" afterPath="$PROJECT_DIR$/game.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +40,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="copyright.filetypes.HTML" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wty\Documents\GitHub\-Javascript_trys\css" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -52,6 +60,8 @@
       <workItem from="1606963050010" duration="442000" />
       <workItem from="1606986726959" duration="17000" />
       <workItem from="1607063502882" duration="7236000" />
+      <workItem from="1607082875785" duration="371000" />
+      <workItem from="1607084191444" duration="138000" />
     </task>
     <task id="LOCAL-00001" summary="first_try">
       <created>1607069278600</created>
