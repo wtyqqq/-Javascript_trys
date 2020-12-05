@@ -9,12 +9,10 @@ function randomMove() {
     var c2 = random(0, 8);
     var cell1, cell2;
 
-    for (var i = 0; i < 100000; i++) {
-        if ((r1 == r2 && c1 == c2) || pieces[r1][c1] == 0 || pieces[r1][c1] == pieces[r2][c2]) {
+    for (var i = 0; i < 1000000; i++) {
+        if ((r1 == r2 && c1 == c2) || pieces[r1][c1] == 0 || (pieces[r1][c1] == pieces[r2][c2])) {
             r1 = random(0, 8);
             c1 = random(0, 8);
-            r2 = random(0, 8);
-            c2 = random(0, 8);
         }
     }
     cell1 = document.getElementById(getCellID(8, r1, c1));
@@ -25,5 +23,6 @@ function randomMove() {
     } else if (pieces[r1][c1] == 1) {
         cell2.className = 'blackpiece';
     }
+    pieces[r2][c2] = pieces[r1][c1];
     pieces[r1][c1] = 0;
 }

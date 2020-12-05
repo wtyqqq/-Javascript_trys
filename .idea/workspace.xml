@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52edbd70-32c2-405c-83d3-e1dbdce5c1ef" name="默认的" comment="succeed!!!!!!!!!!!!!!!!!!!!!!!!!!">
+    <list default="true" id="52edbd70-32c2-405c-83d3-e1dbdce5c1ef" name="默认的" comment="fix_random">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/action3.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/action3.js" afterDir="false" />
     </list>
@@ -79,7 +79,7 @@
       <workItem from="1606986726959" duration="17000" />
       <workItem from="1607063502882" duration="7236000" />
       <workItem from="1607082875785" duration="371000" />
-      <workItem from="1607084191444" duration="22906000" />
+      <workItem from="1607084191444" duration="26424000" />
     </task>
     <task id="LOCAL-00001" summary="first_try">
       <created>1607069278600</created>
@@ -144,7 +144,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607148205838</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="fix_random">
+      <created>1607150038106</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1607150038106</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fix_random">
+      <created>1607150089190</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1607150089190</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,7 +199,8 @@
     <MESSAGE value="step_7_fixed_random_move_incomplete" />
     <MESSAGE value="Maybe_completed" />
     <MESSAGE value="succeed!!!!!!!!!!!!!!!!!!!!!!!!!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="succeed!!!!!!!!!!!!!!!!!!!!!!!!!!" />
+    <MESSAGE value="fix_random" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix_random" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
