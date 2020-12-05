@@ -8,6 +8,8 @@ function randomMove() {
     var r2 = random(0, 8);
     var c2 = random(0, 8);
     var cell1, cell2;
+    var member3=document.getElementById("member3");
+    member3.innerText="Tianyi_Wang";
 
     for (var i = 0; i < 1000000; i++) {
         if ((r1 == r2 && c1 == c2) || pieces[r1][c1] == 0 || (pieces[r1][c1] == pieces[r2][c2])) {
