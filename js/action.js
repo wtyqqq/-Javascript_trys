@@ -14,10 +14,10 @@ function getCellID(colsPerRow, r, c) {
 }
 
 function drawGameBoard(rows, cols) {
-    var memeber1 = document.getElementById("member1")
+    var member1 = document.getElementById("member1")
     var boardElement = document.getElementById("board");
     var tableElement = document.createElement('table');
-    memeber1.innerText="Chen_Wang";
+    member1.innerText="Chen_Wang";
     for (var i = 0; i < rows; i++) {
 
         var trElement = document.createElement('tr');
