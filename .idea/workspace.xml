@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52edbd70-32c2-405c-83d3-e1dbdce5c1ef" name="默认的" comment="fix_random">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/action3.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/action3.js" afterDir="false" />
-    </list>
+    <list default="true" id="52edbd70-32c2-405c-83d3-e1dbdce5c1ef" name="默认的" comment="all_succeed!!!!!!!!!!!!" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +76,7 @@
       <workItem from="1606986726959" duration="17000" />
       <workItem from="1607063502882" duration="7236000" />
       <workItem from="1607082875785" duration="371000" />
-      <workItem from="1607084191444" duration="26424000" />
+      <workItem from="1607084191444" duration="26666000" />
     </task>
     <task id="LOCAL-00001" summary="first_try">
       <created>1607069278600</created>
@@ -158,7 +155,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607150089190</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="all_succeed!!!!!!!!!!!!">
+      <created>1607154230784</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1607154230784</updated>
+    </task>
+    <task id="LOCAL-00013" summary="all_succeed!!!!!!!!!!!!">
+      <created>1607154236069</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1607154236069</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,7 +211,8 @@
     <MESSAGE value="Maybe_completed" />
     <MESSAGE value="succeed!!!!!!!!!!!!!!!!!!!!!!!!!!" />
     <MESSAGE value="fix_random" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix_random" />
+    <MESSAGE value="all_succeed!!!!!!!!!!!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="all_succeed!!!!!!!!!!!!" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
